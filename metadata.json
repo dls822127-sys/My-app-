@@ -1,0 +1,6 @@
+{
+  "name": "Anant Drift",
+  "description": "A non-stop offline endless neon drift game that keeps running continuously until you close it, with smooth steering, auto-pilot mode, shifting biomes, and craft upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
